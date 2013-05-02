@@ -4,6 +4,7 @@ alias ls='ls -Glah'
 alias chrome='open /Applications/Google\ Chrome.app'
 alias mail='open -a Mail.app'
 alias todo='open -a Reminders.app'
+alias cd..='cd ..'
 
 # BUNDLE
 alias bx='bundle exec'
