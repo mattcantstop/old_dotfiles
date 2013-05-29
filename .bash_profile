@@ -4,7 +4,15 @@ alias ls='ls -Glah'
 alias chrome='open /Applications/Google\ Chrome.app'
 alias mail='open -a Mail.app'
 alias todo='open -a Reminders.app'
+alias paramed='cd ~/Dropbox/jvlabs/18insights'
+alias projects='cd ~/projects'
+alias work='cd ~/Dropbox/mdwork'
+alias matt='cd ~/projects/mattcantstop.github.io'
+alias nedry='cd ~/projects/nedry'
+alias dot='source ~/dotfiles/.bash_profile ~/dotfiles/.bashrc'
+alias dotfiles='cd ~/dotfiles'
 alias cd..='cd ..'
+
 
 # BUNDLE
 alias bx='bundle exec'
